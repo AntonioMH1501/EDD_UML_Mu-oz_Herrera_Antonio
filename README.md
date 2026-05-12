@@ -7,5 +7,5 @@ María Dolores Barba López y Antonio Muñoz Herrera
 4. Si los dos son correctos, se procederá al pago.
 5. Existen dos posibilidades, la primera de ellas es el fallo del pago, para que este caso se de deben de pasar unas circustancias que sería la revisión de los datos de la tarjeta y si en la misma queda la cantidad de dinero que se pide en la compra, si no es así, se dará un fallo de no completada la compra y el cliente deberá de de repetir todo este proceso con una nueva tarjeta. La segunda posibilidad es la aceptación de la tarjeta. En esta posibilidad debe de suceder tres pasos, el registro del pedido en la base de datos, gerenar un PDF con la factura para el cliente y enviar una notificación por correo con la compra aceptada. Una vez se cumpla, el pago ha sido un éxito.
 6. Una vez se acepta la tarjeta y con ella la finalización de la compra, se le da al cliente un mensaje de que la compra ha sido completada.
-7. 
+
 <img width="1383" height="523" alt="image" src="https://github.com/user-attachments/assets/00bb235a-6f39-42f1-9fe0-e12fdb2ff087" />
