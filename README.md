@@ -9,3 +9,10 @@ María Dolores Barba López y Antonio Muñoz Herrera
 6. Una vez se acepta la tarjeta y con ella la finalización de la compra, se le da al cliente un mensaje de que la compra ha sido completada.
 
 <img width="1383" height="523" alt="image" src="https://github.com/user-attachments/assets/00bb235a-6f39-42f1-9fe0-e12fdb2ff087" />
+
+## Bibliografía
+Bibliografía
+
+[1]	«About the Unified Modeling Language Specification Version 2.5.1», Omg.org. [En línea]. Disponible en: https://www.omg.org/spec/UML/. [Accedido: 12-may-2026].
+[2]	«IBM engineering systems design rhapsody», Ibm.com. [En línea]. Disponible en: https://www.ibm.com/docs/en/rhapsody/9.0.1?topic=diagrams-uml-activity. [Accedido: 12-may-2026].
+[3]	«Visual paradigm - AI-powered visual modeling», Visual-paradigm.com. [En línea]. Disponible en: https://www.visual-paradigm.com/guide/uml/what-is-activity-diagram/. [Accedido: 12-may-2026].
